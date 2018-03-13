@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Faheem\'s Hands Of Precision</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">info@faheemshandsofprecision.com</string>
+    <string name="phone_number">(215) 271-7098</string>
+    <string name="address">2100 Snyder Ave, Phila, Pa 19145</string>
+    <string name="web_site">http://faheemshandsofprecision.com/</string>
+    <string name="hours_of_operation">Mon - Fri 10am - 8pm and Sat 10am - 5pm</string>
+
+</resources>
